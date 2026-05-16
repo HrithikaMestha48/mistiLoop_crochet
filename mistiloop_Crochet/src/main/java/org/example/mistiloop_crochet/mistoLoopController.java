@@ -3,7 +3,7 @@ package org.example.mistiloop_crochet;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class mistoLoopController {
     @FXML
     private Label welcomeText;
 
